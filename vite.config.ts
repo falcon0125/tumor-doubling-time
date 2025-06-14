@@ -12,6 +12,7 @@ export default defineConfig(({ mode }) => {
         alias: {
           '@': path.resolve(__dirname, '.'),
         }
-      }
+      },
+      base: '/tumor-doubling-time/' // Set base path for GitHub Pages deployment
     };
 });
