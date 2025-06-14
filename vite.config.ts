@@ -13,6 +13,6 @@ export default defineConfig(({ mode }) => {
           '@': path.resolve(__dirname, '.'),
         }
       },
-      base: '/tumor-doubling-time/' // Set base path for GitHub Pages deployment
+      base: './' // Set base path for Cloudflare Pages deployment
     };
 });
