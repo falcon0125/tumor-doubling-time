@@ -1,0 +1,6 @@
+{
+  "name": "Tumor Doubling Time Calculator",
+  "description": "An application to calculate tumor volume doubling time (TVDT) based on two measurements (volume or diameter) taken at different times and assess associated risk.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
